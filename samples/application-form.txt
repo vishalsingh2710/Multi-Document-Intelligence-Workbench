@@ -1,0 +1,18 @@
+LOAN APPLICATION FORM — SYNTHETIC TEST DATA
+Reference: APP-2026-0001
+Date: 2026-11-10
+
+Applicant Name: Priya Sharma
+Company Name: Acme Trading Ltd
+Registered Address: 1 Market Street, Sydney NSW 2000, Australia
+Email: priya.sharma@acme.example
+Phone: +61 2 5550 1234
+Registration Number: ACN 123456789
+Licence Number: FSL-4521-AU
+Date of Incorporation: 2015-04-12
+
+Annual Revenue: $2,500,000
+Net Profit: $420,000
+Number of Employees: 42
+
+Declaration: The applicant confirms the information above is accurate as of 2026-11-10.

@@ -1,0 +1,17 @@
+SUPPORTING FINANCIAL STATEMENT — SYNTHETIC TEST DATA
+Prepared for: Acme Trading Pty
+Reference: SUP-2026-0007
+Statement Date: 2026-10-30
+
+Applicant Name: Priya Sharma
+Registered Address: 1 Market Street, Sydney NSW 2000, Australia
+Phone: +61 2 5550 1234
+Registration Number: ACN 123456789
+Licence Number: FSL-4521-AU
+Date of Incorporation: 12-Apr-2015
+
+Annual Revenue: $2,750,000
+Net Profit: $380,000
+Audit Firm: Example Audit Partners
+
+Note: Figures reflect the audited position for the financial year ending 30-Jun-2026.
